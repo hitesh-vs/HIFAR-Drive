@@ -4,13 +4,17 @@ This repository presents a modular and interactive pipeline that integrates mult
 
 ---
 
-## 🚗 Key Features
+## 📌 Key Features
 
-- 📌 **Depth Estimation** using monocular image inputs
-- 🌊 **Optical Flow** for motion tracking between frames
-- 🎨 **Color and Instance Segmentation** for identifying lane markings and road users
-- 🎯 **Object Detection** with bounding box overlays
-- 🧍 **Pose Estimation** for pedestrians
-- 🧩 Unified pipeline with modular architecture and visual output renderer
+-  **Depth Estimation** using monocular image inputs
+-  **Optical Flow** for motion tracking between frames
+-  **Color and Instance Segmentation** for identifying lane markings and road users
+-  **Object Detection** with bounding box overlays
+-  **Pose Estimation** for pedestrians
+-  Unified pipeline with modular architecture and visual output renderer
+
+---
+
+See Report.pdf for more detailed insights. 
 
 
