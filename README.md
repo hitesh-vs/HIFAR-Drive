@@ -13,11 +13,11 @@ This repository presents a modular and interactive pipeline that integrates mult
 -  Unified pipeline with modular architecture and visual output renderer
 
 
-Read the full [report] for more details(./Report.pdf). 
+Read the full [report](./Report.pdf) for more details. 
 
 ---
 
-This project has also been showcased in a [Product Pitch Video], highlighting the most notable features of the pipeline. The motive behind making this is to present the work as an engaging, product-oriented walkthrough that anyone can understand, ranging from laypersons to experts in the field. (https://www.youtube.com/watch?v=IlkewlcQNXE)
+This project has also been showcased in a [Product Pitch Video](https://www.youtube.com/watch?v=IlkewlcQNXE), highlighting the most notable features of the pipeline. The motive behind making this is to present the work as an engaging, product-oriented walkthrough that anyone can understand, ranging from laypersons to experts in the field. 
 
 
 
