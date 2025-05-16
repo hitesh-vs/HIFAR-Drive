@@ -15,6 +15,6 @@ This repository presents a modular and interactive pipeline that integrates mult
 
 ---
 
-See Report.pdf for more detailed insights. 
+[Read the full report (Report.pdf)](./Report.pdf)
 
 
