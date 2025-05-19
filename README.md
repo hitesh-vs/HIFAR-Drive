@@ -22,10 +22,10 @@ Read the full [report](./Report.pdf) for more details.
 The perception pipeline converts raw camera feed videos into a 3D virtual scene through the following stages:
 
 1. **Object Detection**  
-   The input video is first processed using state-of-the-art object detection models like [YOLO3D](https://github.com/Beyond-the-AI/Yolo3D) and [DETiC](https://github.com/facebookresearch/Detic) to identify and classify objects in the scene.
+   The input video is first processed using state-of-the-art object detection models like [YOLO3D](https://github.com/ruhyadi/YOLO3D) and [DETiC](https://github.com/facebookresearch/Detic) to identify and classify objects in the scene.
 
 2. **Depth Estimation**  
-   Detected objects are augmented with per-pixel depth information using [Marigold](https://github.com/facebookresearch/marigold), enabling accurate estimation of 3D positions.
+   Detected objects are augmented with per-pixel depth information using [Marigold](https://github.com/prs-eth/Marigold), enabling accurate estimation of 3D positions.
 
 3. **3D Visualization**  
    The 3D positions of the detected objects are used to spawn virtual objects within a Blender scene, creating a realistic digital twin for further visualization and analysis.
