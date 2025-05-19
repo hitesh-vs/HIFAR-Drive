@@ -17,7 +17,7 @@ Read the full [report](./Report.pdf) for more details.
 
 ## Perception Pipeline Overview
 
-![Perception Pipeline](Perception pipeline.png) 
+![Perception Pipeline](PerceptionPipeline.png) 
 
 The perception pipeline converts raw camera feed videos into a 3D virtual scene through the following stages:
 
